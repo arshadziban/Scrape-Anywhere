@@ -11,6 +11,3 @@ This repository is a hands-on playground for practicing and experimenting with b
 - 🧑‍💻 Demonstrates using `requests`, `BeautifulSoup`, and `Selenium`
 - 💡 Includes code for pagination, data extraction, and simple data cleaning
 ---
-
-
-
